@@ -1,2 +1,1 @@
-# data-science-TASK1-2026
-Aktivitas Hands-On Sesi 1
+Saya Allyssa Rahmawati Prihanto, saat ini bekerja sebagai Data Processor di multinational company yang bergerak di bidang market research. Tujuan saya belajar data science adalah untuk memahami lebih dalam mengenai data dan dapat menciptakan impact nyata dari keterlibatan daya terhadap data yang ada. 
